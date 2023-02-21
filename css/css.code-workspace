@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"name": "css",
+			"path": "../../Boska_Complete/Fonts/WEB/css"
+		},
+		{
+			"name": "Web-2-starter-WL-main",
+			"path": ".."
+		},
+		{
+			"name": "favicon_io",
+			"path": "../../favicon_io"
+		},
+		{
+			"name": "fonts",
+			"path": "../../Boska_Complete/Fonts/WEB/fonts"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Web-2-starter-WL-main"
+	}
+}

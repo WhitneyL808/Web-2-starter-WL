@@ -1,0 +1,11 @@
+@import url(boska.css);
+
+
+
+body {
+    background-color: orange;
+    display: grid;
+    align-content: center;
+    justify-content: center;
+    font-family: 'Boska-Variable';
+}
